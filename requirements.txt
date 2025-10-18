@@ -20,7 +20,7 @@ vllm==0.9.1
 wandb
 decord
 # For vila models
-s2wrapper@git+https://github.com/bfshi/scaling_on_scales
+# s2wrapper@git+https://github.com/bfshi/scaling_on_scales
 # For image/video diffusion
 diffusers
 imageio
